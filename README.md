@@ -6,7 +6,7 @@ This is a repository to share and discuss rails examples
 - _If you alreay have your Rails environment setup, you may enjoy the clear error reporting from the BetterErrors gem:
 https://github.com/BetterErrors/better_errors._
 
-### Getting your environment setup
+### Getting your environment setup
 - Getting your environment setup can be painful IMO. I finally settled on Linux primarily 
 and use **brew** to install **chruby** and **ruby-install** for managing my ruby versions. 
 
