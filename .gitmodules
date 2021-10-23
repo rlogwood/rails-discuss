@@ -1,3 +1,6 @@
 [submodule "project_images"]
 	path = project_images
 	url = git@github.com:rlogwood/rails-discuss.git
+[submodule "rails_discuss-project_images"]
+	path = rails_discuss-project_images
+	url = git@github.com:rlogwood/rails_discuss-project_images.git
