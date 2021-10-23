@@ -4,13 +4,13 @@ This is a repository to share and discuss rails examples
 ### Getting Started With Rails
 
 - _If you alreay have your Rails environment setup, you may enjoy the clear error reporting from the BetterErrors gem:
-https://github.com/BetterErrors/better_errors. _
+https://github.com/BetterErrors/better_errors._
 
-### Getting your environment setup
+### Getting your environment setup
 - Getting your environment setup can be painful IMO. I finally settled on Linux primarily 
 and use **brew** to install **chruby** and **ruby-install** for managing my ruby versions. 
 
-- I'm currently using Linux, Ubunto 20.04 LTS
+- I'm currently using Linux, Ubuntu 20.04 LTS
 
 - If you're starting out can avoid a lot of headaches by following the exact instructions 
 in a tutorial for their environment (exact version of rails, ruby, node). 
