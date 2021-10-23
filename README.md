@@ -26,7 +26,7 @@ javascript package installs (there may other setup issues for python and gcc):
 - nvm to manage node versions  - https://formulae.brew.sh/formula/nvm  (**pyenv** for python versions)
 - yarn to manage javascript packages - https://formulae.brew.sh/formula/yarn
 - `nvm --help`  use it to install *node*
-- some tutorials let you avoid setup by using a pre-configured online environment until you get your own setup :slightly_smiling_face
+- some tutorials let you avoid setup by using a pre-configured online environment until you get your own setup :service_dog: :slightly_smiling_face:
 
 ### Reading the Rails docs, invaluable IMO: :monocle_face:
 - https://guides.rubyonrails.org/
@@ -44,4 +44,5 @@ javascript package installs (there may other setup issues for python and gcc):
 - Udemy Rails Classes (https://www.udemy.com/)
 - Lynda Rails Classes (now https://www.linkedin.com/learning)
 - YouTube Rails demos and tutorials
-- Getting sleep and starting over the next day :sleeping:
+- Getting sleep and starting over the next day :sleeping: :vulcan_salute:
+g
