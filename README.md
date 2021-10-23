@@ -45,4 +45,3 @@ javascript package installs (there may other setup issues for python and gcc):
 - Lynda Rails Classes (now https://www.linkedin.com/learning)
 - YouTube Rails demos and tutorials
 - Getting sleep and starting over the next day :sleeping: :vulcan_salute:
-g
